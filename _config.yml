@@ -11,20 +11,20 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
-title: Chris Turner
-author: Chris Turner
+url: http://camillemerz.com
+#baseurl: /sustain/
+title: Cam Merz
+author: Cam Merz
 description: Personal blog and resume
 avatar: profile.png
-email: yourname@email.com
-github: jekyller/sustain # username
-twitter: username
-linkedin: username
-stackoverflow: username   #e.g: users/2735833/proton1h1
+email: cami.merz@gmail.com
+github: camerz # username
+#twitter: username
+linkedin: cammerz
+#stackoverflow: username   #e.g: users/2735833/proton1h1
 #Comment out if you don't want disqus
-disqus: username
-google_analytics: UA-69391421-1
+#disqus: username
+google_analytics: UA-133683665-1
 
 
 # needed for travis-ci build
