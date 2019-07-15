@@ -1,0 +1,35 @@
+Plan for Personal Website
+Pages: 
+  About Me
+  Blog
+  Resume
+  
+Home:
+  photo (professional)
+  welcome message (short)
+  WIP disclaimer
+  
+About Me:
+  photo (less professional)
+  blurb: current position, school, professional and personal history
+  
+Blog:
+  tags: creating, consuming, doing, tech, music, food, travel, books, podcasts, articles, playlists, school, outdoors
+  
+Resume:
+  link to pdf on GitHub
+  
+Contact:
+  GitHub
+  LinkedIn
+  Email/contact me form
+  Twitter
+  
+To Do:
+  Blog post: country music playlist
+  Blog post: Utah trip
+  Fix: home button should go to welcome page, not about me
+  Fix: rewrite welcome message
+  Fix: activate blog section of website
+  Fix: create email from website in google domains
+  Fix: replace contact email with new @camillemerz.com email
