@@ -27,5 +27,3 @@ Contact:
 To Do:
   Blog post: country music playlist
   Blog post: Utah trip
-  Fix: create email from website in google domains
-  Fix: replace contact email with new @camillemerz.com email
