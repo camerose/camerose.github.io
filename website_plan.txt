@@ -7,8 +7,7 @@ Pages:
 Home:
   photo (professional)
   welcome message (short)
-  WIP disclaimer
-  
+
 About Me:
   photo (less professional)
   blurb: current position, school, professional and personal history
@@ -28,8 +27,6 @@ Contact:
 To Do:
   Blog post: country music playlist
   Blog post: Utah trip
-  Fix: home button should go to welcome page, not about me
-  Fix: rewrite welcome message
   Fix: activate blog section of website
   Fix: create email from website in google domains
   Fix: replace contact email with new @camillemerz.com email
