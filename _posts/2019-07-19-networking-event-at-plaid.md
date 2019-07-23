@@ -11,10 +11,10 @@ This week I attended a panel and networking event at Plaid HQ in San Francisco e
 Career”. I’ve been trying to attend as many of these networking and career building events as possible this summer. I 
 think the inclination comes partially from not wanting to get stuck in the fast turnover cycle that is so common for 
 software engineers. People talk about how the average amount of time a software engineer stays at a company is 1.5 
-years. While I wasn't actually able to find data that backs that up (from a quick search), a [13.2% annual turnover rate](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2018/the-3-industries-with-the-highest-turnover-rates).
+years. While I wasn't actually able to find data that backs that up (from a quick search), a [13.2% annual turnover rate](https://business.linkedin.com/talent-solutions/blog/trends-and-research/2018/the-3-industries-with-the-highest-turnover-rates)
 is similarly alarming. The interview process for engineering positions is notoriously grueling and drawn out, so it’s 
 surprising that so many people are willing to go through it so often. Since I’m starting a little later than many people 
-(26 and currently in my first internship) I’d like to expedite the process of finding a good fit for a full time 
+(26 and currently in my first internship), I’d like to expedite the process of finding a good fit for a full time 
 position.
 
 I’m doing a couple of things to move toward that goal (maybe another blog post on those efforts later), but I think one 
@@ -38,8 +38,8 @@ I think that this one really helps give me a framework of how to handle my chron
 Most decisions are reversible! Laura gave the example of starting a company as the kind of thing that seems like a huge 
 important decision that you could easily agonize over, but is essentially reversible. The culture in tech (at least in 
 the bay) is one that worships founders, so you won’t be blacklisted for founding a company that doesn’t stick around. 
-The ability to go back to being an engineer means that even starting a company is reversible.
-The only missing piece to this is the time consumed in the process of making a decision and reversing it. Maybe this is 
+The ability to go back to engineering means that even starting a company is reversible.
+The only missing piece in this idea is the time consumed in the process of making a decision and reversing it. Maybe this is 
 partially because I’m still so early in my career and the late start, but time is a non-renewable resource and that 
 causes me anxiety.
 
@@ -60,7 +60,7 @@ hearing this advice would have helped me protect my confidence and self-worth.
 at.**
 
 
-This a BIG one for me. Honestly it might end up being its own blog post at some point. I think a lot about whether I 
+This a BIG one for me. I think a lot about whether I 
 want to stay in pure engineering or if I would like to have more say in what products are made. Right now I have no say 
 in what products are made, but of course that’s true since I’m an intern. I think that it would be really interesting 
 work to think about the problems that customers are facing and what we could do to solve them. It also might be 
