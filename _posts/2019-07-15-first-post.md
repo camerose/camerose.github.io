@@ -1,8 +1,8 @@
 ---
 layout: post
-title: First Blog Post
+title: About This Blog
 tags:
 - blog
 ---
-## First Blog Post
+## About This Blog
 This is a place for me to share my ideas, and the things I create, consume and do.
