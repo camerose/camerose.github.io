@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About This Blog
+title: GitHub Basics Tutorial
 tags:
 - blog
 - learning
