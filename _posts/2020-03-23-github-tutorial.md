@@ -123,15 +123,15 @@ If you’re trying to push your code and keep getting prompted for your login cr
 
 ### Glossary
 + **Branch**: a version of the codebase that you want to keep separate from the main branch
-+**Commit**: to save a checkpoint in your code (this does NOT push the code to remote, so it’s not backed up after you commit)
-+**Diff**: the differences between two files
-+**Fork**: create a new version of a project for yourself
-+**.gitignore**: a file in your repository which tells git which files to leave untracked
-+**Local**: files and code that you have on the computer that you’re working on
-+**Merge**: to combine two branches into one
-+**Merge conflict**: two files that you’re trying to merge have incompatibilities that you need to handle. You need to either choose one of the files or manually combine them into a single file.
-+**Pull**: to bring code from the remote repository to your local machine
-+**Push**: to bring code from your local machine to the remote repository
-+**Remote**: files and code that are saved in GitHub, but not on the computer that you’re using
-+**Repository**: a collection of files stored on GitHub, sort of a folder
-+**Upstream**: a remote repository that is common to all people working on the project. This is where you fork from.
++ **Commit**: to save a checkpoint in your code (this does NOT push the code to remote, so it’s not backed up after you commit)
++ **Diff**: the differences between two files
++ **Fork**: create a new version of a project for yourself
++ **.gitignore**: a file in your repository which tells git which files to leave untracked
++ **Local**: files and code that you have on the computer that you’re working on
++ **Merge**: to combine two branches into one
++ **Merge conflict**: two files that you’re trying to merge have incompatibilities that you need to handle. You need to either choose one of the files or manually combine them into a single file.
++ **Pull**: to bring code from the remote repository to your local machine
++ **Push**: to bring code from your local machine to the remote repository
++ **Remote**: files and code that are saved in GitHub, but not on the computer that you’re using
++ **Repository**: a collection of files stored on GitHub, sort of a folder
++ **Upstream**: a remote repository that is common to all people working on the project. This is where you fork from.
