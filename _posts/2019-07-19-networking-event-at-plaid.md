@@ -6,7 +6,7 @@ tags:
 - doing
 - tech
 ---
-## Women in Tech: Growing Your Career (Networking Event at Plaid HQ)
+# Women in Tech: Growing Your Career (Networking Event at Plaid HQ)
 This week I attended a panel and networking event at Plaid HQ in San Francisco entitled “Women in Tech: Growing Your 
 Career”. I’ve been trying to attend as many of these networking and career building events as possible this summer. I 
 think the inclination comes partially from not wanting to get stuck in the fast turnover cycle that is so common for 
