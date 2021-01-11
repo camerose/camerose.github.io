@@ -3,8 +3,6 @@ layout: post
 title: GitHub Basics Tutorial
 categories: Tech
 ---
-# GitHub Basics Tutorial
-
 
 ### Introduction
 I created this tutorial when I was a TA for the data structures class at Mills. Many of the students in that class had never used GitHub or any other version control tools before. The goal was to give them practice going through the motions of cloning, committing and pushing code. Although I personally use the command line tool in IntelliJ, many of the students haven't use the command line before and I wanted to limit the number of new ideas that I exposed them to, which is why this tutorial only uses GUIs.

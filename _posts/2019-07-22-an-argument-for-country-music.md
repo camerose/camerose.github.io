@@ -3,7 +3,6 @@ layout: post
 title: "An Argument for Country Music (A Playlist Designed to Change Your Mind)"
 category: Blog
 ---
-# An Argument for Country Music (A Playlist Designed to Change Your Mind)
 My manager at my internship went to grad school in North Carolina, and has a pretty romantic view of living in the 
 country. I wondered if I had managed to find another country music fan in the city, so I asked “Sreenu, do you like 
 country music, or just country living?” His response was shockingly open-minded (an uncommon response to country music; 

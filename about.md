@@ -5,7 +5,7 @@ title: About
 
 Hello and nice to meet you!
 
-![Cam](https://github.com/camerz/camerz.github.io/blob/master/assets/icon-512.png).
+![Profile Photo](/assets/icon-512.png).
 
 I'm Camille Merz, a life enthusiast. I would normally have something to say about what I do for work and for fun, but I'm very interested in honesty and honestly, the COVID-19 pandemic has thrown my career and hobbies for a loop.
 
