@@ -4,7 +4,6 @@ title: GitHub Basics Tutorial
 categories: Tech
 ---
 
-### Introduction
 I created this tutorial when I was a TA for the data structures class at Mills. Many of the students in that class had never used GitHub or any other version control tools before. The goal was to give them practice going through the motions of cloning, committing and pushing code. Although I personally use the command line tool in IntelliJ, many of the students haven't use the command line before and I wanted to limit the number of new ideas that I exposed them to, which is why this tutorial only uses GUIs.
 
 
@@ -12,19 +11,21 @@ This tutorial is intended to give you some hands-on practice forking, cloning, p
 
 
 ### 1. Create an Account
-Go to https://github.com/join?source=header-home and fill out your information to create an account. You can create your account with your Mills email or a personal one; you can always add an additional email address to the account.
+Go to [https://github.com/join?source=header-home](https://github.com/join?source=header-home) and fill out your information to create an account. You can create your account with your Mills email or a personal one; you can always add an additional email address to the account.
 
 ### 2. Fork the Repository
 Forking the repository means that you now have your own copy of the entire code base in your GitHub account. It will not automatically update as the master changes. Your fork is your remote copy.
-Go to the repository (https://github.com/[redacted]) and fork it (click the button at the top next to ‘Watch’ and ‘Star’).
+
+Go to the class repository (https://github.com/[redacted]) and fork it (click the button at the top next to ‘Watch’ and ‘Star’).
 
 
 ### 3. Clone the Repository
 Cloning the repository means you are getting a local version of your fork. The local version lives on your computer (or the computer you’re currently using) and is where you’ll make your changes. 
+
 Open your preferred Java IDE (Eclipse or IntelliJ) and follow the instructions below.
 
 
-**Eclipse**
+#### Eclipse
 
 
 To add the Git Repository view to Eclipse, click Window → Show View → Other… → Git → Git Repositories
@@ -39,7 +40,7 @@ Leave protocol as https and provide your GitHub login credentials.
 Click “Next”, select all branches (this is the default setting). Click “Next” again, then click “Finish”. Although we’re leaving all the settings at their defaults, take a moment to read through all your options, you might want to use them someday.
 
 
-**IntelliJ**
+#### IntelliJ
 
 
 From the landing page, select “Check out from Version Control” → Git
@@ -47,7 +48,9 @@ From the landing page, select “Check out from Version Control” → Git
 Navigate to your fork in GitHub, click “Clone or download” and copy the URL under “Clone with HTTPS”. If SSH is selected by default, click “Use HTTPS” then copy the URL.
 
 Paste the URL into the Clone Repository dialog, click the test button to ensure the connection, then click clone. By default, IntelliJ will create a new folder for the repository with the same name.
+
 Select “Create from Existing Sources”, then leave the rest of the settings at their defaults.
+
 You may be required to provide your login credentials for GitHub to complete this process.
 
 ### 4. Make an Edit
@@ -56,18 +59,21 @@ Usually, this is when you’ll write code.
 
 ### 5. Add Files + Commit Your Changes
 Adding Files to staging means you’re moving them one step closer to your remote repository. Commiting files is putting a stopping point in your work. One way to think about this is like a checkpoint in a video game. You just completed something and you want to put a breakpoint into your work. 
+
 For every commit you make, you need to add a description or ‘commit message’. For the change you made above, a description such as “Added my name to class list” is great. You don’t need to add the date or time or your name to this commit message; Git will do that for you.
 
 
-**Eclipse**
+#### Eclipse
 
 
 First, open the Git Staging view and select the repository form the menu above by clicking the small yellow cylinder.
+
 In Eclipse, saving a file will automatically add to the “Unstaged Changes” section of the Git Staging view. To add a file to staging, just drag it from “Unstaged Changes” to “Staged Changes” or click the green plus sign in the corned of “Unstaged Changes”.
+
 In the “Commit Message” area, type your commit message, then click Commit. Notice that the file disappears from “Staged Changes”. This is because the file is Commited and ready to Push.
 
 
-**IntelliJ**
+#### IntelliJ
 
 
 At the top bar, click “VCS” → Commit. In the “Commit Message” area, type your commit message, then click Commit. Spend a moment to read all the options on the right sidebar, as you might want to use them sometime. Also see the diff view below, which shows you what changes you’re committing.
@@ -77,17 +83,16 @@ At the top bar, click “VCS” → Commit. In the “Commit Message” area, ty
 Committing files adds a breakpoint to your work, but it’s not actually backed up remotely until you push your code. Usually, you’ll push code after achieving some expected outcome. You can (and often do) include multiple commits per push, but in this case we’re just going to push the one commit we made above.
 
 
-**Eclipse**
+#### Eclipse
 
 
 Go to the “Git Repository” view, and right click the repository name. Click “Push Branch ‘master’...” → Enter your login credentials (if you’re having trouble with this, see troubleshooting below) → Preview → Push
     
 
-**IntelliJ**
+#### IntelliJ
 
 
 In the top menu bar, click VCS → Git → Push
-
 
 Note that you see your commit message in the dialog. If you have multiple commits to push, you’ll see all of them listed. Click “Push”.
 

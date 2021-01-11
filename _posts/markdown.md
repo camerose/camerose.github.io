@@ -1,17 +1,8 @@
 ---
 layout: post
-title: Another markdown full cheatsheet demo (Markdown)
-tags:
-- News
-- Tags
-- Blog
-- Post
+title: Markdown
+category: tech
 ---
-
-> This is Markdown Cheatsheet Demo for **Sustain**, this Jekyll theme. Please check the raw content of this file for the markdown usage.
-
-## Typography Elements in One
-
 Let's start with a informative paragraph. **This text is bolded.** But not this one! _How about italic text?_ Cool right? Ok, let's **_combine_** them together. Yeah, that's right! I have code to highlight, so `ThisIsMyCode()`. What a nice! Good people will hyperlink away, so [here we go](#) or [http://www.example.com](http://www.example.com).
 
 <div class="divider"></div>
