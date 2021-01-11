@@ -1,10 +1,7 @@
 ---
 layout: post
 title: "An Argument for Country Music (A Playlist Designed to Change Your Mind)"
-tags:
-- blog
-- creating
-- music
+category: Blog
 ---
 # An Argument for Country Music (A Playlist Designed to Change Your Mind)
 My manager at my internship went to grad school in North Carolina, and has a pretty romantic view of living in the 
@@ -14,4 +11,5 @@ most people are transparent about their hatred), so I jumped on the opportunity.
 a playlist carefully curated to show the diversity, joy and sorrow that exists within an oft vilified (in California) 
 genre. I present to you, An Argument for Country Music.
 
-<iframe src="https://open.spotify.com/embed/playlist/0DmFmqVrHnrtKgUnZVopIp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/playlist/54VC9qZjirakp2Vtt6D055" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
