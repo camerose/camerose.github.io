@@ -3,15 +3,19 @@ layout: post
 title: About
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Hello and nice to meet you!
 
-<figure>
-  <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
-  <figcaption>
-    Photo by Fri Tanke and licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported</a> license.
-  </figcaption>
-</figure>
+![Cam](https://github.com/camerz/camerz.github.io/blob/master/assets/icon-512.png).
 
-From [Wikipedia](https://en.wikipedia.org/wiki/Christopher_Hitchens):
+I'm Camille Merz, a life enthusiast. I would normally have something to say about what I do for work and for fun, but I'm very interested in honesty and honestly, the COVID-19 pandemic has thrown my career and hobbies for a loop.
 
->Christopher Eric Hitchens (13 April 1949 – 15 December 2011) was an Anglo-American author, columnist, essayist, orator, religious and literary critic, social critic, and journalist. Hitchens was the author, co-author, editor or co-editor of over 30 books, including five collections of essays on culture, politics and literature. A staple of public discourse, his confrontational style of debate made him both a lauded intellectual and a controversial public figure. He contributed to New Statesman, The Nation, The Weekly Standard, The Atlantic, London Review of Books, The Times Literary Supplement, Slate, Free Inquiry and Vanity Fair.
+Some things that are true, pandemic or not:
+- I spend a lot of time reading
+- I recently married the love of my life <a href="https://alexrosengarten.com/">Alexander Rosengarten</a>.
+- Last year, I graduated from Mills College's Interdisciplinary Computer Science program. I'd recommend it to anybody and feel free to reach out if you're interested in it.
+- On a super closely related note, I'm looking for a job as a software engineer. I'm a hard working gal who picks up new ideas fast. I'd love to hear from you if you're hiring!
+- I love being outside, no matter forest or desert, hiking or kayaking.
+
+The website is intended to be my home online. Its contents will reflect my interests, so expect a mix of sustainable fashion, tech, travel, food and my hot-n-spicy takes.
+
+[Last updated 1/10/2021]

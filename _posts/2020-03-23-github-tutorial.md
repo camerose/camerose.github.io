@@ -1,10 +1,7 @@
 ---
 layout: post
 title: GitHub Basics Tutorial
-tags:
-- blog
-- learning
-- tech
+categories: Tech
 ---
 # GitHub Basics Tutorial
 
