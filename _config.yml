@@ -43,5 +43,5 @@ plugins:
 paginate: 10
 paginate_path: "/page/:num/"
 show_excerpts: true
-#excerpt_length: 50 # words
+excerpt_length: 12 # words
 hide_credits: true
