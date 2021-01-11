@@ -45,4 +45,3 @@ paginate_path: "/page/:num/"
 show_excerpts: true
 excerpt_length: 50 # words
 hide_credits: true
-
