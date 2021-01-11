@@ -2,11 +2,6 @@
 layout: post
 title: About
 ---
-
-Hello and nice to meet you!
-
-![Profile Photo](/assets/icon-512.png).
-
 I'm Camille Merz, a life enthusiast. I would normally have something to say about what I do for work and for fun, but I'm very interested in honesty and honestly, the COVID-19 pandemic has thrown my career and hobbies for a loop.
 
 Some things that are true, pandemic or not:
@@ -17,5 +12,7 @@ Some things that are true, pandemic or not:
 - I love being outside, no matter forest or desert, hiking or kayaking.
 
 The website is intended to be my home online. Its contents will reflect my interests, so expect a mix of sustainable fashion, tech, travel, food and my hot-n-spicy takes.
+<br>
+[Last updated January 11, 2021]
 
-[Last updated 1/10/2021]
+![A photo of me](/assets/profilePhoto.png)

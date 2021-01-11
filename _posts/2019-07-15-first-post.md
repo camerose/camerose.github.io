@@ -1,6 +1,5 @@
 ---
 title: About This Blog
-author: Camille Merz
 category: Blog
 layout: post
 ---
