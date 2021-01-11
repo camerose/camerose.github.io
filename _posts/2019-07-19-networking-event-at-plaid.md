@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Women in Tech: Growing Your Career (Networking Event at Plaid HQ)"
-author: Camille Merz
-categories: tech
+tags:
+- blog
+- doing
+- tech
 ---
 # Women in Tech: Growing Your Career (Networking Event at Plaid HQ)
 This week I attended a panel and networking event at Plaid HQ in San Francisco entitled “Women in Tech: Growing Your 

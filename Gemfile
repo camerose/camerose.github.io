@@ -1,8 +1,4 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
-gemspec
 
-# for demo site
-gem "jekyll-paginate"
-#gem "hitchens-theme"
+gem "jekyll", "~> 3.6.2"
+gem "github-pages", "~> 168"

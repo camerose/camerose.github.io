@@ -1,4 +1,13 @@
 ---
-title: Home
 layout: home
 ---
+
+<section id="about">
+	<div class="container">
+	  <div class="avatar">
+		<img class="img-circle" src="{{ site.baseurl }}assets/images/{{ site.avatar }}" width="190px" alt="Profile Photo">
+	  </div>
+	  <h3>Hello, I'm <strong>{{ site.author }}</strong>. Welcome!</h3>
+	  {% include social.html %}
+	</div>
+</section>
