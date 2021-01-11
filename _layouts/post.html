@@ -1,45 +1,34 @@
 ---
-layout: home
+layout: default
 ---
 
-<div class="container">
-	<div class="blog-post">
-		<h3>
-		  <strong><a href="{{ page.url }}">{{ page.title }}</a></strong>
-		</h3>
-	</div>
-	<div class="blog-title">
-		<h4>
-		{{ page.date | date: "%B %e, %Y" }}
-			&nbsp;&nbsp;
-			{% for tag in page.tags %}
-			 <span class="label label-success">{{ tag }}</span>
-			{% endfor %}
-		</h4>
-	</div>
-	<div class="panel panel-default">
-		<div class="panel-body">
-			<div class="blogpost">
-			  {{ content }}
-			   <hr>
-			   <div class="related-posts">
-				   <h5>Related Posts</h5>
-				   {% for post in site.related_posts limit:3 %}
-						<div class="row">
-							 <div class="col-sm-4 col-md-4 col-lg-4">
-								 <h6 style="text-align: right">
-								 	{{ post.date | date: "%B %e, %Y" }}
-								 </h6>
-							 </div>
-							 <div class="col-sm-8 col-md-8 col-lg-8">
-								 <h6 style="text-align: left">
-								 	<strong><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></strong>
-								 </h6>
-							 </div>
-						</div>
-					{% endfor %}
-			   </div>
-			</div>
-		</div>
-	</div>
-</div>
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
+
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
+
+</article>
