@@ -8,13 +8,13 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 3000
 safe: true
-
+theme: hitchens-theme
 
 # edit here to achieve your personal greatness
 url: http://camillemerz.com
 baseurl: /
-title: Cam Merz
-author: Cam Merz
+title: Camille Merz
+author: Camille Merz
 description: Personal blog and resume
 avatar: ProfilePhoto.jpg
 email: hi@camillemerz.com
