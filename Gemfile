@@ -1,5 +1,8 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-gem "jekyll"
-gem "github-pages"
-gem "hitchens-theme"
+source "https://rubygems.org"
+gemspec
+
+# for demo site
+gem "jekyll-paginate"
+#gem "hitchens-theme"

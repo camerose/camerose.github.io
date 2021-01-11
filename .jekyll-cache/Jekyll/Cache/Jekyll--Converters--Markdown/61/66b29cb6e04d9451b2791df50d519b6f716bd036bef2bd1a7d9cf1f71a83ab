@@ -1,0 +1,110 @@
+I";$<h1 id="github-basics-tutorial">GitHub Basics Tutorial</h1>
+
+<h3 id="introduction">Introduction</h3>
+<p>I created this tutorial when I was a TA for the data structures class at Mills. Many of the students in that class had never used GitHub or any other version control tools before. The goal was to give them practice going through the motions of cloning, committing and pushing code. Although I personally use the command line tool in IntelliJ, many of the students haven’t use the command line before and I wanted to limit the number of new ideas that I exposed them to, which is why this tutorial only uses GUIs.</p>
+
+<p>This tutorial is intended to give you some hands-on practice forking, cloning, pulling and pushing using GitHub and an IDE (Eclipse or IntelliJ). Everything you do in this tutorial can also be achieved using the command line. This tutorial contains 7 steps, plus some additional resources. Some steps don’t use an IDE and therefore have the same steps regardless of IDE.</p>
+
+<h3 id="1-create-an-account">1. Create an Account</h3>
+<p>Go to https://github.com/join?source=header-home and fill out your information to create an account. You can create your account with your Mills email or a personal one; you can always add an additional email address to the account.</p>
+
+<h3 id="2-fork-the-repository">2. Fork the Repository</h3>
+<p>Forking the repository means that you now have your own copy of the entire code base in your GitHub account. It will not automatically update as the master changes. Your fork is your remote copy.
+Go to the repository (https://github.com/[redacted]) and fork it (click the button at the top next to ‘Watch’ and ‘Star’).</p>
+
+<h3 id="3-clone-the-repository">3. Clone the Repository</h3>
+<p>Cloning the repository means you are getting a local version of your fork. The local version lives on your computer (or the computer you’re currently using) and is where you’ll make your changes. 
+Open your preferred Java IDE (Eclipse or IntelliJ) and follow the instructions below.</p>
+
+<p><strong>Eclipse</strong></p>
+
+<p>To add the Git Repository view to Eclipse, click Window → Show View → Other… → Git → Git Repositories
+Also add the Git Staging view from the same menu</p>
+
+<p>Click “Clone a Git repository”
+Navigate to your fork in GitHub, click “Clone or download” and copy the URL under “Clone with HTTPS”. If SSH is selected by default, click “Use HTTPS” then copy the URL.</p>
+
+<p>Paste the URL into the URI line of the Source Git Repository dialog.
+Leave protocol as https and provide your GitHub login credentials.</p>
+
+<p>Click “Next”, select all branches (this is the default setting). Click “Next” again, then click “Finish”. Although we’re leaving all the settings at their defaults, take a moment to read through all your options, you might want to use them someday.</p>
+
+<p><strong>IntelliJ</strong></p>
+
+<p>From the landing page, select “Check out from Version Control” → Git</p>
+
+<p>Navigate to your fork in GitHub, click “Clone or download” and copy the URL under “Clone with HTTPS”. If SSH is selected by default, click “Use HTTPS” then copy the URL.</p>
+
+<p>Paste the URL into the Clone Repository dialog, click the test button to ensure the connection, then click clone. By default, IntelliJ will create a new folder for the repository with the same name.
+Select “Create from Existing Sources”, then leave the rest of the settings at their defaults.
+You may be required to provide your login credentials for GitHub to complete this process.</p>
+
+<h3 id="4-make-an-edit">4. Make an Edit</h3>
+<p>For the purposes of this tutorial, we’re not using actual code. The only change you need to make is to add your name to the file AddYourNameHere.md and save it.
+Usually, this is when you’ll write code.</p>
+
+<h3 id="5-add-files--commit-your-changes">5. Add Files + Commit Your Changes</h3>
+<p>Adding Files to staging means you’re moving them one step closer to your remote repository. Commiting files is putting a stopping point in your work. One way to think about this is like a checkpoint in a video game. You just completed something and you want to put a breakpoint into your work. 
+For every commit you make, you need to add a description or ‘commit message’. For the change you made above, a description such as “Added my name to class list” is great. You don’t need to add the date or time or your name to this commit message; Git will do that for you.</p>
+
+<p><strong>Eclipse</strong></p>
+
+<p>First, open the Git Staging view and select the repository form the menu above by clicking the small yellow cylinder.
+In Eclipse, saving a file will automatically add to the “Unstaged Changes” section of the Git Staging view. To add a file to staging, just drag it from “Unstaged Changes” to “Staged Changes” or click the green plus sign in the corned of “Unstaged Changes”.
+In the “Commit Message” area, type your commit message, then click Commit. Notice that the file disappears from “Staged Changes”. This is because the file is Commited and ready to Push.</p>
+
+<p><strong>IntelliJ</strong></p>
+
+<p>At the top bar, click “VCS” → Commit. In the “Commit Message” area, type your commit message, then click Commit. Spend a moment to read all the options on the right sidebar, as you might want to use them sometime. Also see the diff view below, which shows you what changes you’re committing.</p>
+
+<h3 id="6-push-to-remote">6. Push to Remote</h3>
+<p>Committing files adds a breakpoint to your work, but it’s not actually backed up remotely until you push your code. Usually, you’ll push code after achieving some expected outcome. You can (and often do) include multiple commits per push, but in this case we’re just going to push the one commit we made above.</p>
+
+<p><strong>Eclipse</strong></p>
+
+<p>Go to the “Git Repository” view, and right click the repository name. Click “Push Branch ‘master’…” → Enter your login credentials (if you’re having trouble with this, see troubleshooting below) → Preview → Push</p>
+
+<p><strong>IntelliJ</strong></p>
+
+<p>In the top menu bar, click VCS → Git → Push</p>
+
+<p>Note that you see your commit message in the dialog. If you have multiple commits to push, you’ll see all of them listed. Click “Push”.</p>
+
+<h3 id="7-open-pull-request">7. Open Pull Request</h3>
+<p>To see your pushed changes, go to your fork in GitHub. The URL will follow the format github.com/[[YOURUSERNAME]]/[redacted].</p>
+
+<p>Click “New Pull Request” → “Create pull request”</p>
+
+<p>You can now see your open pull request under Pull Requests in the upstream, which in this case is at [redacted].</p>
+
+<h3 id="additional-helpful-tutorials">Additional Helpful Tutorials</h3>
+<p><a href="https://github.com/collab-uniba/socialcde4eclipse/wiki/How-to-import-a-GitHub-project-into-Eclipse">How to Import a GitHub Project Into Eclipse</a></p>
+
+<p><a href="https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc">“Learn Git Concepts, Not Commands”</a></p>
+
+<p><a href="https://www.youtube.com/watch?v=mf2-MOl0VXY">Adding a Local Project to GitHub in IntelliJ - Video</a></p>
+
+<p><a href="https://git-scm.com/docs/gitignore">What Is a .gitignore File?</a></p>
+
+<p><a href="https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners">Git and GitHub for Beginners</a></p>
+
+<h3 id="troubleshooting">Troubleshooting</h3>
+<p>If you’re trying to push your code and keep getting prompted for your login credentials, it’s possible that your two factor authentication is causing the problem. To continue, either temporarily disable two factor authentication or clone using SSH.</p>
+
+<h3 id="glossary">Glossary</h3>
+<ul>
+  <li><strong>Branch</strong>: a version of the codebase that you want to keep separate from the main branch</li>
+  <li><strong>Commit</strong>: to save a checkpoint in your code (this does NOT push the code to remote, so it’s not backed up after you commit)</li>
+  <li><strong>Diff</strong>: the differences between two files</li>
+  <li><strong>Fork</strong>: create a new version of a project for yourself</li>
+  <li><strong>.gitignore</strong>: a file in your repository which tells git which files to leave untracked</li>
+  <li><strong>Local</strong>: files and code that you have on the computer that you’re working on</li>
+  <li><strong>Merge</strong>: to combine two branches into one</li>
+  <li><strong>Merge conflict</strong>: two files that you’re trying to merge have incompatibilities that you need to handle. You need to either choose one of the files or manually combine them into a single file.</li>
+  <li><strong>Pull</strong>: to bring code from the remote repository to your local machine</li>
+  <li><strong>Push</strong>: to bring code from your local machine to the remote repository</li>
+  <li><strong>Remote</strong>: files and code that are saved in GitHub, but not on the computer that you’re using</li>
+  <li><strong>Repository</strong>: a collection of files stored on GitHub, sort of a folder</li>
+  <li><strong>Upstream</strong>: a remote repository that is common to all people working on the project. This is where you fork from.</li>
+</ul>
+:ET
