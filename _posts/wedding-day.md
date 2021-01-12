@@ -9,13 +9,11 @@ We generally knew that we wanted to be legally married by the end of the year, b
 
 The day after we finalized our last details, new COVID travel restrictions went into effect. 
 
-We cried a little bit
-
 ## In Progress
 
 
 <br>
 <iframe src="https://camillemerz.smugmug.com/frame/slideshow?key=DrR35P&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExODY5MzMyM119
+eyJoaXN0b3J5IjpbNjgwMjQyMzIyLDIxMTg2OTMzMjNdfQ==
 -->
