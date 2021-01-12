@@ -13,8 +13,9 @@ The day after we finalized our last details, new COVID travel restrictions went 
 
 We cried a little bit
 
+<br>
 <iframe src="https://camillemerz.smugmug.com/frame/slideshow?key=DrR35P&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" width="800" height="600" frameborder="no" scrolling="no"></iframe>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0ODc1MDQ5Nyw5Njk4Mjg1NzcsLTIwND
-c2MDU0NjBdfQ==
+eyJoaXN0b3J5IjpbMTU3ODA2NjIwNSwxMzQ4NzUwNDk3LDk2OT
+gyODU3NywtMjA0NzYwNTQ2MF19
 -->
