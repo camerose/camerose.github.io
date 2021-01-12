@@ -7,5 +7,6 @@ My manager at my internship went to grad school in North Carolina, and has a pre
 
 <br>
 
-<iframe src="https://open.spotify.com/embed/playlist/54VC9qZjirakp2Vtt6D055" width="400" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<div class="playlistWrapper">
+	<iframe src="https://open.spotify.com/embed/playlist/54VC9qZjirakp2Vtt6D055" allowtransparency="true" allow="encrypted-media" allowfullscreen></iframe>
+</div>
