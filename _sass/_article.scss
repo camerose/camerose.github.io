@@ -66,12 +66,27 @@
 
 .playlistWrapper {
   position: relative;
-  padding-bottom: 80%; /* 16:9 */
+  padding-bottom: 80%;
   padding-top: 25px;
   height: 0;
 }
 
 .playlistWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.albumWrapper {
+  position: relative;
+  padding-bottom: 70%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.albumWrapper iframe {
   position: absolute;
   top: 0;
   left: 0;
