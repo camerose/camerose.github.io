@@ -44,7 +44,7 @@ Our wedding day was far from what either of us had pictured. I imagined marrying
 
 <br>
 
-[Our Wedding Album on SmugMug](https://camillemerz.smugmug.com/Wedding/Elopement/n-Mr88LH)
+[Our Wedding Album on SmugMug](https://camillemerose.smugmug.com/Wedding/Elopement/n-Mr88LH)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjgwMjQyMzIyLDIxMTg2OTMzMjNdfQ==
