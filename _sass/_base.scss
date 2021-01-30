@@ -95,6 +95,30 @@ img {
   margin: 2em auto;
 }
 
+.svg-icon {
+  display: inline;
+  width: 30px;
+  height: auto;
+  margin: 2em auto;
+}
+
+.social-media-list {
+  padding: 0;
+  list-style: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+.social-media-list li {
+  display: inline;
+  margin-right: 20px;
+  justify-content: center;
+}
+
+.social-media-list li a {
+  text-decoration: none;
+}
+
 figure img {
   margin: 2em auto 1em;
 }
@@ -158,4 +182,5 @@ figcaption {
     border-color: $text-color;
     margin-top: 0;
   }
+
 }

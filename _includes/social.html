@@ -1,0 +1,41 @@
+{%- assign social = site.social_link -%}
+
+  <ul class="social-media-list">
+    
+    <li>
+      <a rel="me" href="mailto:{{social.email | cgi_escape | escape }}">
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/email.svg' | relative_url }}"></img>
+      </a>
+    </li>    
+    
+    <li>
+      <a rel="me" href="https://linkedin.com/in/{{social.linkedin | cgi_escape | escape }}">
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/linkedin.svg' | relative_url }}"></img>
+      </a>
+    </li>
+
+    <li>
+      <a rel="me" href="https://github.com/{{social.github | cgi_escape | escape }}">
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/github.svg' | relative_url }}"></img>
+      </a>
+    </li>
+    
+    <li>
+      <a rel="me" href="https://open.spotify.com/user/{{social.spotify | cgi_escape | escape }}">
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/spotify.svg' | relative_url }}"></img>
+      </a>
+    </li>
+
+    <li>
+      <a rel="me" href="https://goodreads.com/{{social.goodreads | cgi_escape | escape }}" >
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/goodreads.svg' | relative_url }}"></img>
+      </a>
+    </li>
+
+    <li>
+      <a rel="me" href="https://{{social.smugmug | cgi_escape | escape }}.smugmug.com/">
+        <img class = "svg-icon" src = "{{ '/assets/social_icons/smugmug.svg' | relative_url }}"></img>
+      </a>
+    </li>
+
+  </ul>

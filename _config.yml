@@ -22,6 +22,15 @@ url: http://camillemerz.com # the base hostname & protocol for your site, e.g. h
 icon: /assets/images/icon-512.png
 github_username:  camerz
 
+#generate social links
+social_link:
+  github: camerz
+  linkedin: camerose
+  goodreads: camerose
+  email: hi@camillemerz.com
+  spotify: l8o1pw0cfk5f2hzbgdektby4p
+  smugmug: camillemerose
+
 # Build settings
 markdown: kramdown
 
