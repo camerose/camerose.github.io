@@ -15,7 +15,7 @@ The website is intended to be my home online. Its contents will reflect my inter
 
 <br>
 
-[Contact me here](mailto:hi@camillemerz.com)
+<a href="mailto:{{site.email}}">Contact me here</a>
 
 <br>
 
