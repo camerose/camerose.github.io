@@ -38,14 +38,10 @@ Our wedding day was far from what either of us had pictured. I imagined marrying
 
 <div class="albumWrapper">
 
-  <iframe src="https://camillemerose.smugmug.com/frame/slideshow?key=DrR35P&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" frameborder="no" scrolling="no" allowfullscreen></iframe>
+  <iframe src="https://camillemerose.smugmug.com/frame/slideshow?key=rxS5TJ&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=0&randomize=0&transitionSpeed=2" frameborder="no" scrolling="no"></iframe>
 
 </div>
 
 <br>
 
-[Our Wedding Album on SmugMug](https://camillemerose.smugmug.com/Wedding/Elopement/n-Mr88LH)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgwMjQyMzIyLDIxMTg2OTMzMjNdfQ==
--->
+[Our Wedding Album on SmugMug](https://camillemerose.smugmug.com/Our-Wedding/)
