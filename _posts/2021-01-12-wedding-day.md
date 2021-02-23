@@ -38,7 +38,7 @@ Our wedding day was far from what either of us had pictured. I imagined marrying
 
 <div class="albumWrapper">
 
-  <iframe src="https://camillemerose.smugmug.com/frame/slideshow?key=rxS5TJ&speed=3&transition=fade&autoStart=1&captions=0&navigation=1&playButton=0&randomize=0&transitionSpeed=2" frameborder="no" scrolling="no"></iframe>
+  <iframe src="https://camillemerose.smugmug.com/frame/slideshow?key=rxS5TJ&speed=3&transition=fade&autoStart=1&captions=0&navigation=0&playButton=1&randomize=0&transitionSpeed=1" frameborder="no" scrolling="no"></iframe>
 
 </div>
 
