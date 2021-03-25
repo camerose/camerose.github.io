@@ -6,7 +6,7 @@ I'm Camille Merose, a life enthusiast. I would normally have something to say ab
 
 Some things that are true, pandemic or not:
 - I spend a lot of time reading.
-- I recently married the love of my life <a href="https://alexrosengarten.com/">Alexander Merose</a>.
+- I recently married the love of my life <a href="https://alex.merose.com/">Alexander Merose</a>.
 - Last year, I graduated from Mills College's Interdisciplinary Computer Science program. I'd recommend it to anybody and feel free to reach out if you're interested in it.
 - On a super closely related note, I'm looking for a job as a software engineer. I'm a hard working gal who picks up new ideas fast. I'd love to hear from you if you're hiring!
 - I love being outside, no matter forest or desert, hiking or kayaking.
