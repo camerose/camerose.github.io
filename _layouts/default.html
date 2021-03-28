@@ -13,8 +13,8 @@
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
-    {%- if jekyll.environment == 'production' and site.google_analytics -%}
-      {%- include google-analytics.html -%}
+    {%- if jekyll.environment == 'production' and site.cloudflare_analytics -%}
+      {%- include cloudflare-analytics.html -%}
     {%- endif -%}
 
   </head>
