@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ""
-category: Blog
+category: blog
 ---
 
 Learnings from my first week back as a member of the public: 

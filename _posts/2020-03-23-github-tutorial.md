@@ -58,7 +58,7 @@ For the purposes of this tutorial, we’re not using actual code. The only chang
 Usually, this is when you’ll write code.
 
 ### 5. Add Files + Commit Your Changes
-Adding Files to staging means you’re moving them one step closer to your remote repository. Commiting files is putting a stopping point in your work. One way to think about this is like a checkpoint in a video game. You just completed something and you want to put a breakpoint into your work. 
+Adding Files to staging means you’re moving them one step closer to your remote repository. Committing files is putting a stopping point in your work. One way to think about this is like a checkpoint in a video game. You just completed something and you want to put a breakpoint into your work. 
 
 For every commit you make, you need to add a description or ‘commit message’. For the change you made above, a description such as “Added my name to class list” is great. You don’t need to add the date or time or your name to this commit message; Git will do that for you.
 
@@ -70,7 +70,7 @@ First, open the Git Staging view and select the repository form the menu above b
 
 In Eclipse, saving a file will automatically add to the “Unstaged Changes” section of the Git Staging view. To add a file to staging, just drag it from “Unstaged Changes” to “Staged Changes” or click the green plus sign in the corned of “Unstaged Changes”.
 
-In the “Commit Message” area, type your commit message, then click Commit. Notice that the file disappears from “Staged Changes”. This is because the file is Commited and ready to Push.
+In the “Commit Message” area, type your commit message, then click Commit. Notice that the file disappears from “Staged Changes”. This is because the file is Committed and ready to Push.
 
 
 #### IntelliJ

@@ -13,7 +13,7 @@ The day after we finalized our last details, new COVID travel restrictions went 
 
 ![Civil Ceremony Un-Invitation](/assets/images/CivilCeremonyUninvite.png)
 
-We cried a little bit, cancelled all our plans and decided to elope. It was hard to make the decision not to have our families with us, but we knew it was the fair thing to do.
+We cried a little bit, canceled all our plans and decided to elope. It was hard to make the decision not to have our families with us, but we knew it was the fair thing to do.
 
 Alex called Donna at [Honey in The Heart Ceremonies](https://www.honeyintheheart.net/) and said "Hi Donna, this is Alex. I'd like to get married." We made plans for a morning ceremony in Mount Madonna County Park. I had actually met Donna before, because she's my best friend's parent's neighbor. She was warm and kind on the phone and we knew right away that she was the perfect person to officiate our wedding. 
 
@@ -29,9 +29,9 @@ After our ceremony, we walked further into the forest with Kassandra for more ph
 
 By the time we made it down the hill, we were hungry and exhausted from all the emotions. We went to Beer Mule in Watsonville for a couple of drinks and lunch and basked in our excitement. We finished off the day with a nap, a Zoom call with our families and a nice dinner courtesy of my parents.
 
-We've now been married for one month. Although in many ways it isn't that different from when we were just engaged (we have been together for eight years after all), there are some significant changes. For one, we chose to create a new family identity for ourselves by merging our last names. We're now the Meroses! Also, the urgency to have the big reception has really receeded. Hopefully we'll be able to celebrate with our loved ones in the spring of 2022, but whatever works out will be okay. 
+We've now been married for one month. Although in many ways it isn't that different from when we were just engaged (we have been together for eight years after all), there are some significant changes. For one, we chose to create a new family identity for ourselves by merging our last names. We're now the Meroses! Also, the urgency to have the big reception has really receded. Hopefully we'll be able to celebrate with our loved ones in the spring of 2022, but whatever works out will be okay. 
 
-Our wedding day was far from what either of us had pictured. I imagined marrying Alex in front of a huge crowd of our friends and family after months of planning. I imagined a ruckus party and dancing the night away. Our actual wedding day was quiet, intimate, deeply personal and a little sad. Even though our friends and family weren't with us that day, they made their presence and love known through words of encouragement and support, gifts and gestures. We had to trim down our wedding as much as we possibily could and although it was painful to make those decisions, the effect was an intense focus on the things that really mattered that day - Alex and I, promising our lives to each other, promising to be the best partners that we can be and promising to live in love together.
+Our wedding day was far from what either of us had pictured. I imagined marrying Alex in front of a huge crowd of our friends and family after months of planning. I imagined a ruckus party and dancing the night away. Our actual wedding day was quiet, intimate, deeply personal and a little sad. Even though our friends and family weren't with us that day, they made their presence and love known through words of encouragement and support, gifts and gestures. We had to trim down our wedding as much as we possibly could and although it was painful to make those decisions, the effect was an intense focus on the things that really mattered that day - Alex and I, promising our lives to each other, promising to be the best partners that we can be and promising to live in love together.
 
 
 <br>
